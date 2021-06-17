@@ -1,2 +1,2 @@
-# SunriseSoftware
+# Sunrise Software
 Sunrise Software
